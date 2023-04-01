@@ -1,0 +1,4 @@
+br\com\criandoapi\projeto\dao\IUsuario.class
+br\com\criandoapi\projeto\controller\UsuarioController.class
+br\com\criandoapi\projeto\model\Usuario.class
+br\com\criandoapi\projeto\ProjetoApplication.class
